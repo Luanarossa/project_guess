@@ -1,0 +1,3 @@
+﻿  joguinho.cpp
+C:\Users\luana\Documents\linguagem de programação BA\agora vai\ConsoleApplication1\project_guess\joguinho\joguinho.cpp(11,15): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  joguinho.vcxproj -> C:\Users\luana\Documents\linguagem de programação BA\agora vai\ConsoleApplication1\project_guess\joguinho\x64\Debug\joguinho.exe
